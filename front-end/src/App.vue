@@ -12,7 +12,7 @@
   <div class="w-full h-20 pt-2 bg-gray-500 rounded-sm">
     <router-link to="/edit" class="m-5 font-bold hover:shadow-sm hover:text-blue-900">Edit collection items</router-link>
     <p></p>
-    <a class="m-5 font-bold hover:text-blue-900" href='https://github.com/BYUCS260/museum-tom9493.git'>Creative Project 4 Github Repository</a>
+    <a class="m-5 font-bold hover:text-blue-900" href='https://github.com/tom9493/CP4.git'>Creative Project 4 Github Repository</a>
   </div>
 </div>
 </template>
